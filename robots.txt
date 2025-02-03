@@ -1,0 +1,10 @@
+#
+# robots.txt for http://www.simone-angeloni.info/ 
+#
+User-agent: *
+Disallow: /send_form_email.php
+Disallow: /js/
+Disallow: /new/
+Disallow: /new2/
+Disallow: /absolutest-wp/
+Disallow: /softaculous/
